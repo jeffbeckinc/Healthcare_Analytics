@@ -1,12 +1,15 @@
 #  🩺🏥 Healthcare Analytics & Visualization Project *(In Progress)*
 > 🚧 *Current phase: Data Exploration (SQL + Power BI)*
 
-This project explores a multi-source dataset representing global child mortality rates and healthcare expenditures, using SQL, Python, and Power BI to uncover data-driven insights. It simulates real-world reporting demands in logistics, public health, and compliance monitoring.
+This project explores a multi-source dataset representing global child mortality rates, life expectancies, GDP spend on healthcare and healthcare expenditures, using SQL, Python, and Power BI to uncover data-driven insights. It simulates real-world reporting demands in logistics, public health, and compliance monitoring.
+
+The original data came from [hrterhrter on Kaggle] (https://www.kaggle.com/datasets/programmerrdai/financing-healthcare)
 
 ## 📁 Project Overview
 
 The goal of this project is to demonstrate:
-- SQL proficiency for data exploration, transformation, and statistical analysis
+- 
+-  SQL proficiency for data exploration, transformation, and statistical analysis
 - Python (pandas, matplotlib, plotnine) for data wrangling and custom visualizations
 - Power BI for designing dynamic, user-friendly dashboards that support strategic decision-making
 
