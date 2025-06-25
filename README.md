@@ -25,7 +25,7 @@ The goal of this project is to demonstrate:
 ## 📁 Files
 SQL
 
-[View SQL Exploratory Analysis](https://github.com/your-username/Financing-Healthcare/blob/main/SQL/exploratory_analysis.sql)
+[View SQL Exploratory Analysis](https://github.com/jeffbeckinc/Test/blob/main/Data%20Exploration.sql)
 
 Power BI
 
