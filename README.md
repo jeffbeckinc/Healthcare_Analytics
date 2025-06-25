@@ -27,7 +27,7 @@ The goal of this project is to demonstrate:
 ```bash
 Financing-Healthcare/
 ├── SQL/
-│   ├── exploratory_analysis.sql               # Queries for initial data exploration and profiling
+│   ├── [Download exploratory_analysis] (https://github.com/jeffbeckinc/Test/blob/main/Data%20Exploration.sql)               # Queries for initial data exploration and profiling
 │   ├── formatting_cleaning.sql                # Scripts for type conversion, formatting, and null handling
 │   └── statistical_queries.sql                # Outlier detection and distribution analysis
 ├── Python/
