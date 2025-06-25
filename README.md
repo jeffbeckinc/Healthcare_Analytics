@@ -22,22 +22,13 @@ The goal of this project is to demonstrate:
 - Python-based feature engineering and compatibility resolution (e.g., pandas upgrades, matplotlib issues)
 - Design of data model and visuals in Power BI for fleet KPIs and compliance readiness
 
-## 📁 File Structure
+## 📁 Files
+SQL
 
-```bash
-Financing-Healthcare/
-├── SQL/
-│   ├── [Download exploratory_analysis] (https://github.com/jeffbeckinc/Test/blob/main/Data%20Exploration.sql)               # Queries for initial data exploration and profiling
-│   ├── formatting_cleaning.sql                # Scripts for type conversion, formatting, and null handling
-│   └── statistical_queries.sql                # Outlier detection and distribution analysis
-├── Python/
-│   ├── data_cleaning.py                       # Future script for data wrangling using pandas
-│   ├── mortality_visuals.py                   # Planned custom plots using plotnine/matplotlib
-│   └── che_outliers_analysis.py               # Placeholder for exploratory comparisons
-├── PowerBI/
-│   ├── FinancingHealthcare.pbix               # Primary Power BI dashboard file
-│   └── visuals_documentation.md               # Descriptions of visuals, bookmarks, and interactivity logic
-├── data/
-│   └── ChildMortalityVsCHE.csv                # Raw dataset of mortality and healthcare expenditure
-├── README.md                                  # Project overview and documentation
+[View SQL Exploratory Analysis](https://github.com/your-username/Financing-Healthcare/blob/main/SQL/exploratory_analysis.sql)
+
+Power BI
+
+Python
+
 
