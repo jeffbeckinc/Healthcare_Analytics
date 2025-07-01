@@ -30,7 +30,7 @@ Healthcare-Analytics-Repo/
 ├─ .gitignore  
 │  
 ├─ sql/  
-│   ├─ [01_table_inspection.sql](https://github.com/jeffbeckinc/Test/blob/main/sql/01_table_inspection.sql)  
+│   ├─ [01_table_inspection.sql](https://github.com/jeffbeckinc/Test/blob/main/01_table_inspection.sql)  
 │   ├─ [02_data_quality_checks.sql](sql/02_data_quality_checks.sql)  
 │   ├─ [03_consolidate_tables.sql](sql/03_consolidate_tables.sql)  
 │   ├─ [04_data_cleaning_and_checks.sql](sql/04_data_cleaning_and_checks.sql)  
