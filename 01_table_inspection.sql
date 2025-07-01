@@ -11,13 +11,13 @@
     2. Execute to get table names and schema info.
 */
 
--- ?? List all user-defined tables in the current database
+--  List all user-defined tables in the current database
 SELECT name
 FROM sys.tables;
 
--- ?? Show schema details for the 'health-protection-coverage' table:
---    • Column names
---    • Data types
---    • Max lengths
---    • Nullability flags
+--  Show schema details for the 'health-protection-coverage' table:
+--    â€¢ Column names
+--    â€¢ Data types
+--    â€¢ Max lengths
+--    â€¢ Nullability flags
 EXEC sp_columns 'CountryPopInsured';
