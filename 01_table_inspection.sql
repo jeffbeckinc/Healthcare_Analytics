@@ -20,4 +20,4 @@ FROM sys.tables;
 --    • Data types
 --    • Max lengths
 --    • Nullability flags
-EXEC sp_columns 'CountryPopInsured';
+EXEC sp_columns 'health-protection-coverage';
