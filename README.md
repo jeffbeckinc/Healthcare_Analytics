@@ -22,22 +22,29 @@ The goal of this project is to demonstrate:
 - Python-based feature engineering and compatibility resolution (e.g., pandas upgrades, matplotlib issues)
 - Design of data model and visuals in Power BI for fleet KPIs and compliance readiness
 
-## 📁 File Structure
+## 📁 Repository Structure
 
 ```bash
-Financing-Healthcare/
-├── SQL/
-│   ├── [Download exploratory_analysis] (https://github.com/jeffbeckinc/Test/blob/main/Data%20Exploration.sql)               # Queries for initial data exploration and profiling
-│   ├── formatting_cleaning.sql                # Scripts for type conversion, formatting, and null handling
-│   └── statistical_queries.sql                # Outlier detection and distribution analysis
-├── Python/
-│   ├── data_cleaning.py                       # Future script for data wrangling using pandas
-│   ├── mortality_visuals.py                   # Planned custom plots using plotnine/matplotlib
-│   └── che_outliers_analysis.py               # Placeholder for exploratory comparisons
-├── PowerBI/
-│   ├── FinancingHealthcare.pbix               # Primary Power BI dashboard file
-│   └── visuals_documentation.md               # Descriptions of visuals, bookmarks, and interactivity logic
-├── data/
-│   └── ChildMortalityVsCHE.csv                # Raw dataset of mortality and healthcare expenditure
-├── README.md                                  # Project overview and documentation
+Healthcare-Analytics-Repo/
+│
+├─ README.md
+├─ LICENSE
+├─ .gitignore
+│
+├─ sql/
+│   ├─ 01_table_inspection.sql
+│   ├─ 02_data_quality_checks.sql
+│   ├─ 03_consolidate_tables.sql
+│   ├─ 04_data_cleaning_and_checks.sql
+│   └─ 05_outlier_detection.sql
+│
+├─ python/
+│   ├─ data_wrangling.ipynb
+│   └─ custom_visuals.ipynb
+│
+├─ powerbi/
+│   └─ HealthcareAnalytics.pbix
+│
+└─ docs/
+    └─ ER_diagram.png
 
