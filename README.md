@@ -25,26 +25,37 @@ The goal of this project is to demonstrate:
 ## 📁 Repository Structure
 
 ```bash
+
 Healthcare-Analytics-Repo/
+├─ README.md
+├─ LICENSE
+├─ .gitignore
 │
+├─ sql/## 📁 Repository Structure
+
+Healthcare-Analytics-Repo/
 ├─ README.md
 ├─ LICENSE
 ├─ .gitignore
 │
 ├─ sql/
-│   ├─ 01_table_inspection.sql
-│   ├─ 02_data_quality_checks.sql
-│   ├─ 03_consolidate_tables.sql
-│   ├─ 04_data_cleaning_and_checks.sql
-│   └─ 05_outlier_detection.sql
+│   ├─ [01_table_inspection.sql](sql/01_table_inspection.sql)
+│   ├─ [02_data_quality_checks.sql](sql/02_data_quality_checks.sql)
+│   ├─ [03_consolidate_tables.sql](sql/03_consolidate_tables.sql)
+│   ├─ [04_data_cleaning_and_checks.sql](sql/04_data_cleaning_and_checks.sql)
+│   └─ [05_outlier_detection.sql](sql/05_outlier_detection.sql)
 │
 ├─ python/
-│   ├─ data_wrangling.ipynb
-│   └─ custom_visuals.ipynb
+│   ├─ [data_wrangling.ipynb](python/data_wrangling.ipynb)
+│   └─ [custom_visuals.ipynb](python/custom_visuals.ipynb)
 │
-├─ powerbi/
-│   └─ HealthcareAnalytics.pbix
-│
-└─ docs/
-    └─ ER_diagram.png
+└─ powerbi/
+    └─ [HealthcareAnalytics.pbix](powerbi/HealthcareAnalytics.pbix)
 
+│
+├─ python/
+│   ├─ [data_wrangling.ipynb](python/data_wrangling.ipynb)
+│   └─ [custom_visuals.ipynb](python/custom_visuals.ipynb)
+│
+└─ powerbi/
+    └─ [HealthcareAnalytics.pbix](powerbi/HealthcareAnalytics.pbix)
