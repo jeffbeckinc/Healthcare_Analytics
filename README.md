@@ -39,6 +39,7 @@ Healthcare-Analytics-Repo/
 ├─ .gitignore
 │
 ├─ sql/
+[View SQL Exploratory Analysis](https://github.com/jeffbeckinc/Test/blob/main/Data%20Exploration.sql)
 │   ├─ [01_table_inspection.sql](https://github.com/jeffbeckinc/Test/blob/main/01_table_inspection.sql)
 │   ├─ [02_data_quality_checks.sql](sql/02_data_quality_checks.sql)
 │   ├─ [03_consolidate_tables.sql](sql/03_consolidate_tables.sql)
