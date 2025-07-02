@@ -44,6 +44,6 @@ WHERE PercentageInsured > (
     FROM CountryPopInsured
 )
    OR PercentageInsured < (
-    SELECT AVG(PercentageInsured) - 13* STDEV(PercentageInsured)
+    SELECT AVG(PercentageInsured) - 3* STDEV(PercentageInsured)
     FROM CountryPopInsured
 );
