@@ -35,7 +35,7 @@ The goal of this project is to demonstrate:
 
 Healthcare-Analytics-Repo/
 ├─ README.md  
-├─ LICENSE  
+├─ [LICENSE] (https://github.com/jeffbeckinc/Test/blob/main/License)  
 ├─ .gitignore  
 │  
 ├─ sql/  
