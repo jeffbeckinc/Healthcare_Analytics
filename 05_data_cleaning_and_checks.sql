@@ -97,10 +97,10 @@ SELECT
 	WHERE a.Code IS NOT NULL
 
 -- After Step 2:	
-	-- Deciding to drop NULL Code values
+	-- Deciding to drop NULL Code values.
 	-- Reviewing Continent value to see if that can be added.
-	-- Found and added Country,Abbreviation table to be able to fill out Continent
-	-- Added additional country dimensional table not found in original source data
+	-- Found and added Country,Abbreviation table to be able to fill out Continent.
+	-- Added additional country dimensional table not found in original source data.
 
 
 
@@ -155,10 +155,10 @@ SELECT
 	WHERE a.Code IS NOT NULL
 
 --After Step 3:
-	-- Coninent column is no longer missing any values
+	-- Coninent column is no longer missing any values.
 	-- Ignoring missing values for taxrevenuepercapita and publicexpenditure per capita since those were only for developing countries. 
-	-- It is understood to have a lot of missing values in those columns, if it is decided to keep them in the final dataset
-	-- Reviewing percentaged insured missing values
+	-- It is understood to have a lot of missing values in those columns, if it is decided to keep them in the final dataset.
+	-- Reviewing percentaged insured missing values.
 
 --  Step 4: Filter out missing PercentageInsured
 		SELECT 
@@ -193,8 +193,7 @@ SELECT
 
 --After Step 4:
     -- After reviewing data, referring back to CountryPopInsured table, there is only a year value for each country, spread out over 20 years.
-	-- DevelopingCountriesTaxRevenueHCSpend table is probably better off removed and just used by itself, but will keep in dataset for time being
-	-- After reviewing those larger missing value columns, there are 4 columns out of 16 columns with largest missing value
-	-- being 175 rows or 4.7% of the data.
+	-- DevelopingCountriesTaxRevenueHCSpend table is probably better off removed and just used by itself, but will keep in dataset for time being.
+	-- After reviewing those larger missing value columns, there are 4 columns out of 16 columns with largest missing value being 175 rows or 4.7% of the data.
 	-- Considering the number of tables joined, 9 fact tables and 1 dimension table, with varying data collected across countries and years,
-	-- I feel confident about reviewing the data f
+	-- I feel confident about reviewing the data further in Power BI and seeing what visualizations and insights can be created.
