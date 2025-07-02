@@ -39,7 +39,7 @@ Healthcare-Analytics-Repo/
 ├─ .gitignore  
 │  
 ├─ sql/  
-│   ├─ [01_table_inspection.sql](https://github.com/jeffbeckinc/Test/blob/main/01_table_inspection.sql)  Lists all user-defined tables and inspects schema details.
+│   ├─ [01_table_inspection.sql](https://github.com/jeffbeckinc/Test/blob/main/01_table_inspection.sql)  Lists all user-defined tables and inspects schema details.  
 │   ├─ [02_data_quality_checks.sql](https://github.com/jeffbeckinc/Test/blob/main/02_data_quality_checks.sql)  Counts total rows and missing values by column.                       
 │   ├─ [03_outlier_detection.sql](https://github.com/jeffbeckinc/Test/blob/main/03_outlier_detection.sql)  Identifies outliers at 1–3 σ thresholds.                              
 │   ├─ [04_consolidate_tables.sql](https://github.com/jeffbeckinc/Test/blob/main/04_consolidate_tables.sql)  Joins all source tables into a single fact table.                     
