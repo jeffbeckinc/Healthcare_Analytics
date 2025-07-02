@@ -32,7 +32,7 @@ Healthcare-Analytics-Repo/
 ├─ sql/  
 │   ├─ [01_table_inspection.sql](https://github.com/jeffbeckinc/Test/blob/main/01_table_inspection.sql)  
 │   ├─ [02_data_quality_checks.sql](https://github.com/jeffbeckinc/Test/blob/main/02_data_quality_checks.sql)  
-│   ├─ [03_outlier_detection.sql](sql/03_outlier_detection.sql)  
+│   ├─ [03_outlier_detection.sql](https://github.com/jeffbeckinc/Test/blob/main/03_outlier_detection.sql)  
 │   ├─ [04_consolidate_tables.sql](https://github.com/jeffbeckinc/Test/blob/main/04_consolidate_tables.sql)  
 │   ├─ [05_data_cleaning_and_checks.sql](sql/04_data_cleaning_and_checks.sql)  
 │  
