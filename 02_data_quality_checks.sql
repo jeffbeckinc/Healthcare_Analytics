@@ -18,6 +18,6 @@ SELECT
         ELSE 0 END) AS missing_Code,
     SUM(CASE WHEN Year IS NULL THEN 1 
         ELSE 0 END) AS missing_entity
-   -- SUM(CASE WHEN [Share_of_population_covered_by_health_insurance_ILO_2014] IS NULL THEN 1 
-   --     ELSE 0 END) AS missing_sharepop
-FROM [CountryPopInsured];
+    SUM(CASE WHEN [Share_of_population_covered_by_health_insurance_ILO_2014] IS NULL THEN 1 
+        ELSE 0 END) AS missing_sharepop
+FROM [health-protection-coverage];
