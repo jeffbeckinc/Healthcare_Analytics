@@ -1,3 +1,9 @@
+## 🚧 Professional Development Notice
+
+This repository is a personal portfolio project intended to showcase my skills in SQL, Python, and Power BI.  
+All analyses, visuals, and code are examples of my professional development work and should not be interpreted as production-ready solutions.  
+Use this project for reference to my capabilities and approach—no other uses are implied or warranted.
+
 #  🩺🏥 Healthcare Analytics & Visualization Project *(In Progress)*
 > 🚧 *Current phase: Data Exploration (SQL + Power BI)*
 
@@ -33,11 +39,11 @@ Healthcare-Analytics-Repo/
 ├─ .gitignore  
 │  
 ├─ sql/  
-│   ├─ [01_table_inspection.sql](https://github.com/jeffbeckinc/Test/blob/main/01_table_inspection.sql)  
-│   ├─ [02_data_quality_checks.sql](https://github.com/jeffbeckinc/Test/blob/main/02_data_quality_checks.sql)  
-│   ├─ [03_outlier_detection.sql](https://github.com/jeffbeckinc/Test/blob/main/03_outlier_detection.sql)  
-│   ├─ [04_consolidate_tables.sql](https://github.com/jeffbeckinc/Test/blob/main/04_consolidate_tables.sql)  
-│   ├─ [05_data_cleaning_and_checks.sql](https://github.com/jeffbeckinc/Test/blob/main/05_data_cleaning_and_checks.sql)  
+│   ├─ [01_table_inspection.sql](https://github.com/jeffbeckinc/Test/blob/main/01_table_inspection.sql)  Lists all user-defined tables and inspects schema details.
+│   ├─ [02_data_quality_checks.sql](https://github.com/jeffbeckinc/Test/blob/main/02_data_quality_checks.sql)  Counts total rows and missing values by column.                       
+│   ├─ [03_outlier_detection.sql](https://github.com/jeffbeckinc/Test/blob/main/03_outlier_detection.sql)  Identifies outliers at 1–3 σ thresholds.                              
+│   ├─ [04_consolidate_tables.sql](https://github.com/jeffbeckinc/Test/blob/main/04_consolidate_tables.sql)  Joins all source tables into a single fact table.                     
+│   ├─ [05_data_cleaning_and_checks.sql](https://github.com/jeffbeckinc/Test/blob/main/05_data_cleaning_and_checks.sql)  Measures NULL counts, backfills missing Continent, filters records.
 │  
 ├─ python/  
 │   ├─ [data_wrangling.ipynb](python/data_wrangling.ipynb)  
