@@ -9,7 +9,7 @@
     2. Store the result in a staging table or view for next steps.
 */
 
--- Consolidate tables with unique and desired fields into one table. Table names have been modified to easier querying and clarity from original source names
+-- Consolidate tables with unique and desired fields into one table. Table names in the joins have been modified to easier querying and clarity from original source names
 SELECT 
 	   a.Entity
       ,a.Code
