@@ -50,4 +50,4 @@ Healthcare-Analytics-Repo/
 │   └─ [custom_visuals.ipynb](python/custom_visuals.ipynb)  
 │  
 └─ powerbi/  
-    └─ [HealthcareAnalytics.pbix](powerbi/HealthcareAnalytics.pbix)  
+    └─ [HealthcareAnalytics.pbix](https://github.com/jeffbeckinc/Healthcare_Analytics/blob/main/HC_Analytics.pbix)  
