@@ -46,8 +46,8 @@ Healthcare-Analytics-Repo/
 │   ├─ [05_data_cleaning_and_checks.sql](https://github.com/jeffbeckinc/Test/blob/main/05_data_cleaning_and_checks.sql)  Measures NULL counts, backfills missing Continent, filters records.
 │  
 ├─ python/  
-│   ├─ [data_wrangling.ipynb](python/data_wrangling.ipynb)  
-│   └─ [custom_visuals.ipynb](python/custom_visuals.ipynb)  
+│   ├─ [data_wrangling.ipynb](python/data_wrangling.ipynb)  ---- not started yet
+│   └─ [custom_visuals.ipynb](python/custom_visuals.ipynb)  ---- not started yet
 │  
 └─ powerbi/  
-    └─ [HealthcareAnalytics.pbix](https://github.com/jeffbeckinc/Healthcare_Analytics/blob/main/HC_Analytics.pbix)  
+    └─ [HealthcareAnalytics.pbix](https://github.com/jeffbeckinc/Healthcare_Analytics/blob/main/HC_Analytics.pbix)  --- Download raw file to see Power BI visuals
