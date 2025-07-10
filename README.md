@@ -5,7 +5,7 @@ All analyses, visuals, and code are examples of my professional development work
 Use this project for reference to my capabilities and approach—no other uses are implied or warranted.
 
 #  🩺🏥 Healthcare Analytics & Visualization Project *(In Progress)*
-> 🚧 *Current phase: Data Exploration (SQL + Power BI)*
+> 🚧 *Current phase: Data Exploration (SQL + Power BI + Python)*
 
 This project explores a multi-source dataset representing global child mortality rates, life expectancies, GDP spend on healthcare and healthcare expenditures, using SQL, Python, and Power BI to uncover data-driven insights. It simulates real-world reporting demands in  public health and economics 
 
@@ -46,8 +46,8 @@ Healthcare-Analytics-Repo/
 │   ├─ [05_data_cleaning_and_checks.sql](https://github.com/jeffbeckinc/Test/blob/main/05_data_cleaning_and_checks.sql)  Measures NULL counts, backfills missing Continent, filters records.
 │  
 ├─ python/  
-│   ├─ [data_wrangling.ipynb](python/data_wrangling.ipynb)  ---- not started yet  
-│   └─ [custom_visuals.ipynb](python/custom_visuals.ipynb)  ---- not started yet  
+│   ├─ [data exploration.ipynb](python/data_wrangling.ipynb)  ---- started  
+│   └─ [custom_visuals.ipynb](python/custom_visuals.ipynb)  ----  not started yet   
 │  
 └─ powerbi/  
     └─ [HealthcareAnalytics.pbix](https://github.com/jeffbeckinc/Healthcare_Analytics/blob/main/HC_Analytics.pbix)  --- Download raw file to see Power BI visuals
