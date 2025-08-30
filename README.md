@@ -28,7 +28,7 @@ The goal of this project is to demonstrate:
 ## 📊 Key Skills Demonstrated
 - Use of subqueries, and statistical filters (e.g. outliers via standard deviation)
 - Conversion of `varchar` fields into formatted numeric displays
-- Python-based feature engineering and compatibility resolution (e.g., pandas upgrades, matplotlib issues)
+- Python-based summary statistics, finding missing values, connecting to a SQL database and creating visuals like a heatmap, box plot and bar graph
 - Design of data model and visuals in Power BI for economic metrics and compliance readiness
 
 ## 📁 Repository Structure
