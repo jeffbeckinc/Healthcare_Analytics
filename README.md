@@ -4,8 +4,7 @@ This repository is a personal portfolio project intended to showcase my skills i
 All analyses, visuals, and code are examples of my professional development work and should not be interpreted as production-ready solutions.  
 Use this project for reference to my capabilities and approach—no other uses are implied or warranted.
 
-#  🩺🏥 Healthcare Analytics & Visualization Project *(In Progress)*
-> 🚧 *Current phase: Data Exploration (SQL + Power BI + Python)*
+#  🩺🏥 Healthcare Analytics & Visualization Project 
 
 This project explores a multi-source dataset representing global child mortality rates, life expectancies, GDP spend on healthcare and healthcare expenditures, using SQL, Python, and Power BI to uncover data-driven insights. It simulates real-world reporting demands in  public health and economics 
 
